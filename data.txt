@@ -1,0 +1,6 @@
+DATA LOG
+Customer Name: Joe Doe
+Product: Cozy Nights Monarch
+VAT: R 900.0
+COMMISSION: R 300.0
+TOTAL: R 7200.0
